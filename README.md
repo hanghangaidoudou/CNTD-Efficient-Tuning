@@ -49,8 +49,8 @@ This repo will **not be maintained** in the future. Please follow **[LLaMA-Facto
 ## Datasets
 
 - For supervised fine-tuning:
-  - [Stanford Alpaca (en)](https://github.com/tatsu-lab/stanford_alpaca)
-  - [Stanford Alpaca (zh)](https://github.com/ymcui/Chinese-LLaMA-Alpaca)
+  - [Stanford Alpaca Llama (en)](https://github.com/tatsu-lab/stanford_alpaca)
+  - [Stanford Alpaca Llama (zh)](https://github.com/ymcui/Chinese-LLaMA-Alpaca)
   - [GPT-4 Generated Data (en&zh)](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM)
   - [Open Assistant (multilingual)](https://huggingface.co/datasets/OpenAssistant/oasst1)
   - [Self-cognition (zh)](data/self_cognition.json)
